@@ -17,7 +17,7 @@ root.geometry("1000x670")
 root.configure(bg='#666666')
 
 
-w=tk.Label(root, text="\tWine Management System",font=("Roboto Bold", 40 * -1),bg='#666666')
+w=tk.Label(root, text="\tRepository Management System",font=("Roboto Bold", 40 * -1),bg='#666666')
 w.grid(row = 0, column = 1, pady=10,padx=100)
 
 style = ttk.Style()
